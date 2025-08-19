@@ -36,6 +36,7 @@
   "liquidbounce.command.client.subcommand.appearance.subcommand.hide.result.alreadyHidingAppearance": "İstemci görünümü zaten gizli. Geri getirmek istersen '.client appearance show' komutunu yaz.",
   "liquidbounce.command.client.subcommand.appearance.subcommand.show.result.alreadyShowingAppearance": "İstemci görünümü zaten görünüyor. HUD’u tekrar açmak mı istiyorsun? Yaz: '.t HUD'.",
   "liquidbounce.command.client.subcommand.reload.description": "İstemcini yeniden yükler.",
+  "liquidbounce.module.hitSelect.description": "Hedef aldığı hasardan sonra kısa süreli dokunulmazlık (invulnerability) durumundayken saldırıları iptal eder (hit-select davranışı).",
   "liquidbounce.command.config.subcommand.list.result.loading": "Çevrimiçi yapılandırma dosyaları yükleniyor...",
   "liquidbounce.command.config.subcommand.load.description": "Bir yapılandırma dosyasını yükler.",
   "liquidbounce.command.config.subcommand.load.parameter.name.description": "Yapılandırma dosyasının adı.",

@@ -516,6 +516,7 @@
     "liquidbounce.module.killAura.description": "Val automatisch vijanden in je omgeving aan.",
     "liquidbounce.module.tpAura.description": "Teleport en val vijanden in je omgeving aan.",
     "liquidbounce.module.killAura.messages.badCooldown": "De cooldown moet minimaal 1.0 zijn om kritieke hits te kunnen doen.",
+    "liquidbounce.module.hitSelect.description": "Annuleert aanvallen terwijl het doel zich in onkwetsbaarheids-frames na een treffer bevindt (hit-select-gedrag).",
     "liquidbounce.module.noMissCooldown.description": "Schakelt de 1.8-aanvalscooldown uit of annuleert gemiste hits.",
     "liquidbounce.module.maceKill.description": "Directe kill bij gebruik van de Mace.",
     "liquidbounce.module.liquidWalk.description": "Laat je over water lopen.",

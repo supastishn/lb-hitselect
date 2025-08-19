@@ -414,6 +414,7 @@
 	"liquidbounce.module.kick.messages.cantEnableInSingleplayer": "シングルプレイで %s を有効にできません。",
 	"liquidbounce.module.killAura.description": "自動的に敵を攻撃します。",
 	"liquidbounce.module.killAura.messages.badCooldown": "クールダウンは1.0以上である必要があります。そうでなければ、クリティカルダメージを適切に与えることができません。",
+	"liquidbounce.module.hitSelect.description": "対象がヒットによる無敵フレーム中の場合に攻撃をキャンセルします（ヒットセレクト動作）。",
 	"liquidbounce.module.liquidChat.description": "他のLiquidBounceユーザーとチャットをすることができます。",
 	"liquidbounce.module.liquidWalk.description": "水の上を歩くことができます。",
 	"liquidbounce.module.longJump.description": "より遠くへジャンプできます。",

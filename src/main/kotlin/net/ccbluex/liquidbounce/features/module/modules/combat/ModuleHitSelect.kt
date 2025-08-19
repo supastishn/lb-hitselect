@@ -24,6 +24,7 @@ import net.ccbluex.liquidbounce.features.module.Category
 import net.ccbluex.liquidbounce.features.module.ClientModule
 import net.ccbluex.liquidbounce.utils.combat.shouldBeAttacked
 import net.minecraft.entity.LivingEntity
+import java.util.function.Supplier
 
 /**
  * HitSelect module
@@ -31,6 +32,11 @@ import net.minecraft.entity.LivingEntity
  * Only attacks when the target is not in iframes (hurtTime == 0)
  */
 object ModuleHitSelect : ClientModule("HitSelect", Category.COMBAT) {
+
+    init {
+        // Use localized description from language files
+        descriptionKey = "liquidbounce.module.hitSelect.description"
+    }
 
     @Suppress("unused")
     private val attackHandler = handler<AttackEntityEvent> { event ->

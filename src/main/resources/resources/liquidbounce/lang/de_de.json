@@ -463,6 +463,7 @@
   "liquidbounce.module.kick.description": "Wirft dich vom Server.",
   "liquidbounce.module.kick.messages.cantEnableInSingleplayer": "Das Modul 'Kick' kann im Einzelspielermodus nicht aktiviert werden.",
   "liquidbounce.module.killAura.description": "Greift automatisch Feinde um dich herum an.",
+  "liquidbounce.module.hitSelect.description": "Bricht Angriffe ab, während das Ziel sich in den Unverwundbarkeits-Frames nach einem Treffer befindet (Hit-Select-Verhalten).",
   "liquidbounce.module.killAura.messages.badCooldown": "Die Abklingzeit sollte mindestens 1,0 betragen, sonst könnt ihr kritischen Schaden nicht richtig austeilen.",
   "liquidbounce.module.maceKill.description": "Sofortiges Töten bei Verwendung des Maces.",
   "liquidbounce.module.liquidWalk.description": "Ermöglicht das Gehen auf dem Wasser.",

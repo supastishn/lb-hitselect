@@ -211,6 +211,8 @@
   "liquidbounce.module.criticals.description": "Автоматично наносить критичний урон при кожному ударі по сутності.",
   "liquidbounce.module.hitbox.description": "Збільшує хитбокс інших сутностей.",
   "liquidbounce.module.killAura.description": "Автоматично атакує ворогів.",
+
+  "liquidbounce.module.hitSelect.description": "Скасовує атаки, коли ціль перебуває в кадрах неуразливості після отримання пошкодження (поведінка hit-select).",
   "liquidbounce.module.superKnockback.description": "Збільшує відкидання інших сутностей.",
   "liquidbounce.module.trigger.description": "Автоматично б'є, коли ви дивитесь на ворога.",
   "liquidbounce.module.velocity.description": "Змінює вашу швидкість.",
